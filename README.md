@@ -1,2 +1,2 @@
 # Python algorithms and data structures
-Algorithms and Data Structures in Python in an interactive course from GeekBrains. 
+Algorithms and Data Structures in Python in an interactive course from GeekBrains. The "old" folder contains several previous works with algorithms. Also, the tasks completed earlier in the courses of the Stepik training platform.
