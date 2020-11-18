@@ -25,3 +25,7 @@ for i in range(2, len(mas)):
 
 print(mas)
 print(f'Минимальные: {mas[min_i1]} и {mas[min_i2]}')
+
+# OR
+
+print(sorted(mas)[0:2])
