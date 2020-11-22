@@ -6,8 +6,8 @@
 
 from random import randint
 
-matrix = [[int(input()) for _ in range(5)] for _ in range(4)]
-# matrix = [[randint(0, 2) for _ in range(5)] for _ in range(4)]
+# matrix = [[int(input()) for _ in range(5)] for _ in range(4)]
+matrix = [[randint(0, 2) for _ in range(4)] for _ in range(4)]
 
 for row in matrix:
     s = 0
