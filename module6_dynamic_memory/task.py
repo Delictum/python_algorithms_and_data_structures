@@ -151,7 +151,6 @@ def implementation3(mas, memory_links3):
 
     s = 0  # вычисление памяти уже отработало здесь: idx_min = 0; size += get_total_size(idx_min, memory_links3)
 
-    # i был подсчитан в прошлом цикле
     for i in range(idx_min + 1, idx_max):
         size += get_total_size(i, memory_links3)
         s += mas[i]
